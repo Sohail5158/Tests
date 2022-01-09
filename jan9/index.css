@@ -1,0 +1,67 @@
+header{
+    height: 80px;
+}
+#logo{
+    color: lightslategrey;
+    float: left;
+}
+#name{
+    font-size: x-large;
+}
+#cont{
+    float: right;
+}
+.td{
+    color: lightslategrey;
+    font-size: large;
+}
+#mail{
+    border-radius: 50%;
+}
+#home{
+    padding-top: 130px;
+    font-size: x-large;
+   width: 50%;
+    float: left;
+    text-align: center;
+    
+}
+#information{
+    padding-top: 130px;
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+button{
+   
+    font-size: large;
+    width: 150px;
+    height: 50px;
+    background-color: #489AE3;
+    color: white;
+}
+input{
+    width: 300px;
+    height: 50px;
+}
+.slate{
+    color: lightslategrey;
+}
+h1{
+    line-height: 20px;
+}
+p{
+    line-height: 20px;
+}
+#intro{
+   padding-bottom: 30px;
+}
+#intro2{
+    padding-bottom: 40px;
+}
+#join{
+    padding-right: 30px;
+}
+#hr{
+    padding-top: 30px;
+}
