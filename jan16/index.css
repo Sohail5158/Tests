@@ -1,0 +1,101 @@
+
+header{
+    background-color: #B79C05;
+    height: 200px;
+ }
+  h1{
+    color: #161616;
+}
+h2{
+    color:#161616;
+    padding-left: 100px;
+
+}
+#name{
+    color: #161616;
+    font-family: cursive;
+    padding-left: 80px;
+}
+.logo{
+    font-size: 100px;
+    font-family: "Lucida handwriting", "Courier New", monospace;
+    position: relative;
+    left: 800px;
+    bottom: 200px;
+}
+.logo2{
+    font-size: 20px;
+    font-family: "Lucida handwriting", "Courier New", monospace;
+    position: relative;
+    left: 800px;
+    bottom: 450px;
+}
+.logo3{
+    font-size: 20px;
+    font-family: "Lucida handwriting", "Courier New", monospace;
+    position: relative;
+    left: 1080px;
+    bottom: 380px;
+}
+main>div>p{
+    
+    border-color: black;
+    background-color: black;
+    width: 150px;
+    height: 150px;
+}
+#r2{
+    position: relative;
+    left: 160px;
+    bottom: 810px;
+}
+#r3{
+    position: relative;
+    left:320px;
+    bottom:1620px
+}
+main{
+    position: relative;
+    bottom: 50px;
+   padding-left: 500px;
+}
+main>div>p:hover{
+    background-color: #B79C05;
+}
+main>div>p:active{
+    color: black;
+    background-color: #B79C05;
+}
+main>div>p{
+    font-family: "Lucida handwriting", "Courier New", monospace;
+    padding-top: 40px;
+    
+    font-size: 80px;
+    text-align: center;
+    color: #B79C05;
+    line-break: 10px;
+}
+#b2{
+    position: relative;
+    bottom: 70px;
+}
+#b3{
+    position: relative;
+    bottom: 140px;
+}
+#b5{
+    position: relative;
+    bottom: 70px;
+}
+#b8{
+    position: relative;
+    bottom: 70px;
+}
+#b6{
+    position: relative;
+    bottom: 140px;
+}
+#b9{
+    position: relative;
+    bottom: 140px;
+}
