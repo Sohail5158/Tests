@@ -73,3 +73,12 @@ button:hover{
     height: 80px;
     width: 100px;
 }
+footer{
+    padding-top: 20px;
+    margin-top: 400px;
+    font-size: 15px;
+    text-align: center;
+    background-color: #003049;
+    color: aliceblue;
+    height: 70px;
+}
