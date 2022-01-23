@@ -1,5 +1,5 @@
 function ddtom(){
-    var p=prompt("note todays tasks");
+    var p=prompt("note tasks");
     var t=document.getElementById('tasks');
     t.innerText=p;
     
