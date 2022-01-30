@@ -1,0 +1,39 @@
+body{
+    background-color: #1b4332
+}
+
+table{
+    border: 1px solid black;
+    margin-top: 15px;
+}
+h2{    
+    color: aliceblue;
+    text-align: center;
+}
+
+tr{
+    background-color:white;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 5px;
+    color: #1b4332;
+}
+
+td {
+     padding: 10px;
+    font-size: 15px;
+}
+
+input{
+    width: 100%;
+    height: 35px;
+    background-color: aliceblue;
+    font-size: 18px;
+    color: #1b4332;
+}
+footer{
+    background-color: aliceblue;
+    height: 150px;
+    padding-top: 20px;
+    margin-top: 180px;
+}
