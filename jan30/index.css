@@ -10,6 +10,9 @@ h2{
     color: aliceblue;
     text-align: center;
 }
+#search{
+    text-align: center;
+}
 
 tr{
     background-color:white;
